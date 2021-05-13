@@ -1,0 +1,10 @@
+{
+    "vue-pc":{"name":"vue-based-pc-template","gitlab":"http://192.168.3.200:80/web/vue-based-pc-template.git"},
+    "vue-h5":{"name":"vue-based-h5-template","gitlab":"http://192.168.3.200:80/web/vue-based-h5-template.git"},
+    "uni-app":{"name":"vue-based-applet-template","gitlab":"http://192.168.3.200:80/web/vue-based-applet-template.git"},
+    "electron":{"name":"vue-based-electron-template","gitlab":"http://192.168.3.200:80/web/vue-based-electron-template.git"},
+    "component-pc":{"name":"vue-based-business-component-pc","gitlab":"http://192.168.3.200:80/web/vue-based-business-component-pc.git"},
+    "component-h5":{"name":"vue-based-business-component-h5","gitlab":"http://192.168.3.200:80/web/vue-based-business-component-h5.git"},
+    "nest-mongo":{"name":"nest-base-mongo","gitlab":"http://192.168.3.200:80/web/nest-base-mongo.git"},
+    "nest-mysql":{"name":"nest-base-mysql","gitlab":"http://192.168.3.200:80/web/nest-base-mysql.git"}
+}
